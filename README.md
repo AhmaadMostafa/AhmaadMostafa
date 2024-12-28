@@ -3,9 +3,9 @@
 
 - 🔭 I’m studies at **Faculty Of Computer & Informatics At Suez Canal University**
 
-- 📄 [My resume](https://drive.google.com/file/d/17L8GgyC-ufgWo4s9NeqJYJHi0V2IbMUm/view).
-- 
-- 📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/ahmed-mostafa-8093b4239).
+- 📄 [My resume](https://drive.google.com/file/d/17L8GgyC-ufgWo4s9NeqJYJHi0V2IbMUm/view)
+  
+- 📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/ahmed-mostafa-8093b4239)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
