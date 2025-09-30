@@ -21,7 +21,7 @@
 <a href="https://codeforces.com/profile/ahmad_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_mostafa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_mostafa80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_mostafa80" height="30" width="40" /></a>
 </p>
-
+<details>
 <h3 align="left">Programming Languages:</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/></a>
