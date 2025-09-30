@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
-<h3 align="center">A .NET backend developer</h3>
+<h3 align="center">.NET backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaadmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaadmostafa" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ahmaadmostafa.github.io/Portfolio/](https://ahmaadmostafa.github.io/Portfolio/)
-
+- 🎓 I’m a fresh graduate in Computer and Informatics
+- 💻 I specialize in .NET backend development and building server-side applications
+- 👨‍💻 All of my projects are available at [my portfolio](https://ahmaadmostafa.github.io/Portfolio/)
 - 📫 How to reach me **ahmedmostafa8011@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PFPdA8NdK3ycP-0if56iSHFKJS_Y1wj3/view?usp=sharing](https://drive.google.com/file/d/1PFPdA8NdK3ycP-0if56iSHFKJS_Y1wj3/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1PFPdA8NdK3ycP-0if56iSHFKJS_Y1wj3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
