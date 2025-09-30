@@ -1,22 +1,10 @@
-<h1 align="center" class="animate-text">Hi 👋, I'm Ahmed Mostafa</h1>
+<h1 align="center">
+  Hi 👋, I'm Ahmed Mostafa
+</h1>
 
-<style>
-  .animate-text {
-    display: inline-block;
-    animation: fadeInUp 2s ease-in-out;
-  }
-
-  @keyframes fadeInUp {
-    0% {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=004080&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;Computer+%26+Informatics+Graduate;Always+learning+new+skills" alt="Typing SVG" />
+</p>
 <h3 align="center">.NET backend developer</h3>
 
 - 🎓 I’m a fresh graduate in Computer and Informatics
