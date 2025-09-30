@@ -37,9 +37,6 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React JS"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/></a>
 </p>
-<p align="center">
-  LINQ • Entity Framework • .NET Core MVC • .NET Core API
-</p>
 
 <h3 align="left">Tools:</h3>
 <p align="center">
