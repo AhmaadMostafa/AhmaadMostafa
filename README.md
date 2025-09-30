@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1PFPdA8NdK3ycP-0if56iSHFKJS_Y1wj3/view?usp=sharing)
 
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="mailto:ahmedmostafa8011@gmail.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
 </a>
