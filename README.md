@@ -1,11 +1,10 @@
 <h1 align="center">
-  Hi 👋, I'm Ahmed Mostafa
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Mostafa
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=004080&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;Computer+%26+Informatics+Graduate;Always+learning+new+skills" alt="Typing SVG" />
 </p>
-<h3 align="center">.NET backend developer</h3>
 
 - 🎓 I’m a fresh graduate in Computer and Informatics
 - 💻 I specialize in .NET backend development and building server-side applications
