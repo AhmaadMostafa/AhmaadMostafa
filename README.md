@@ -21,7 +21,7 @@
 <a href="https://codeforces.com/profile/ahmad_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_mostafa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_mostafa80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_mostafa80" height="30" width="40" /></a>
 </p>
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">💻 Programming Languages:</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/></a>
@@ -31,7 +31,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/></a>
 </p>
 <hr>
-<h3 align="left">Technical Skills:</h3>
+<h3 align="left">⚙️ Technical Skills:</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React JS"/></a>
@@ -42,7 +42,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/></a>
 </p>
 <hr>
-<h3 align="left">Tools:</h3>
+<h3 align="left">🛠️ Tools:</h3>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="background-color:#fff; border-radius:50%; padding:5px;"/></a>
