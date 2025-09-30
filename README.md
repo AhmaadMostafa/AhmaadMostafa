@@ -28,6 +28,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png" width = "48" height="48"></a>
 </p>
 <hr>
 <h3 align="left">Technical Skills:</h3>
