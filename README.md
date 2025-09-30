@@ -47,6 +47,8 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub" style="background-color:#fff; border-radius:50%; padding:5px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/></a>
 </p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaadmostafa&show_icons=true&locale=en&layout=compact" alt="ahmaadmostafa" /></p>
