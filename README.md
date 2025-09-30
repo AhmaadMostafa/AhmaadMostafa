@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">.NET backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaadmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaadmostafa" /> </p>
-
 - 🎓 I’m a fresh graduate in Computer and Informatics
 - 💻 I specialize in .NET backend development and building server-side applications
 - 👨‍💻 All of my projects are available at [my portfolio](https://ahmaadmostafa.github.io/Portfolio/)
