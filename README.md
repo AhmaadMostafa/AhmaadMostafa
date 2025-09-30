@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
+<h1 align="center" class="animate-text">Hi 👋, I'm Ahmed Mostafa</h1>
+
+<style>
+  .animate-text {
+    display: inline-block;
+    animation: fadeInUp 2s ease-in-out;
+  }
+
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
 <h3 align="center">.NET backend developer</h3>
 
 - 🎓 I’m a fresh graduate in Computer and Informatics
