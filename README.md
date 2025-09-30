@@ -17,9 +17,6 @@
 <a href="mailto:ahmedmostafa8011@gmail.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
 </a>
-<a href="https://wa.me/201118850379" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="40" />
-</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mostafa-8093b4239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mostafa-8093b4239/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmad_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_mostafa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_mostafa80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_mostafa80" height="30" width="40" /></a>
