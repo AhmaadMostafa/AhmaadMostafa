@@ -15,8 +15,23 @@
 <hr>
 
 <h3 align="left">🤝 Connect with me:</h3>
+
 <p align="left">
-<a href="mailto:ahmedmostafa8011@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/ahmed-mostafa-8093b4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://codeforces.com/profile/ahmad_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>&nbsp;<a href="https://www.leetcode.com/ahmed_mostafa80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="mailto:ahmedmostafa8011@gmail.com" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" />
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/ahmed-mostafa-8093b4239/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>&nbsp;
+
+  <a href="https://codeforces.com/profile/ahmad_mostafa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" />
+  </a>&nbsp;
+
+  <a href="https://www.leetcode.com/ahmed_mostafa80" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" />
+  </a>
 </p>
 
 <hr>
