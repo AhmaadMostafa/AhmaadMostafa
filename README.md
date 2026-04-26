@@ -8,9 +8,9 @@
 
 - 🎓 I'm a fresh graduate from Computer and Informatics
 - 💻 I specialize in .NET backend development and building server-side applications
-- 👨‍💻 All of my projects are available at [my portfolio](https://ahmaadmostafa.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ahmadmostafa.netlify.app)
 - 📫 How to reach me **ahmedmostafa8011@gmail.com**
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1PFPdA8NdK3ycP-0if56iSHFKJS_Y1wj3/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1HE5KptJ6D2B3lwpZChHERtOaSqsN7DfJ/view?usp=drive_link)
 
 <hr>
 
